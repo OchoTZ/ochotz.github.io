@@ -71,13 +71,13 @@ footer .social-network {
 }
 
 footer>div:first-child {
-    background-color: #f4f4f4;
+    background-color: #F5F5DC;
     padding-bottom: 40px;
     text-align: center
 }
 
 footer>div:last-child {
-    background-color: #cc4764;
+    background-color: #F5F5DC;
     padding-bottom: 40px
 }
 
