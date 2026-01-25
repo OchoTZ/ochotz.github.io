@@ -139,7 +139,7 @@ footer .logo {
 #direction {
     background-size: cover;
     background-position: center;
-    min-height: 400px;
+    min-height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
